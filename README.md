@@ -17,10 +17,19 @@ Here are some ideas to get you started:
 #### I’m a Software Engineering undergrad currently working as a Software Intern. 
 My work involves frontend and backend development, along with a good amount of bug fixing to keep things running smoothly.
 
-## 🛠️ What I Do
+## 💻 What I Do
 - Frontend: Creating user-friendly interfaces.
 - Backend: Developing and maintaining server-side functionality.
 - Debugging: Tracking down bugs and making sure they stay gone.
+
+## 🛠️ Tech Stack
+Here are some tools and technologies I enjoy working with:
+
+- Languages: JavaScript, Python, C++
+- Frontend: React.js, Flutter
+- Backend: Node.js, Express, Firebase
+- Database: MongoDB
+- Tools: VS Code, Postman, Docker, Git, 
 
 ## 🌱 What I’m Learning
 - Exploring better ways to write clean, maintainable code.
